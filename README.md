@@ -6,7 +6,7 @@
 
 ##### Run the service
 
-An endpoint expected an HTTP POST method will be exposed at: [http://localhost:8080/reconcile](http://localhost:8080/reconcile)
+An endpoint expecting an HTTP POST method will be exposed at: [http://localhost:8080/reconcile](http://localhost:8080/reconcile) when the following command is run:
 
 `gradle bootrun`
 
