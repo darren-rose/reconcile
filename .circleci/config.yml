@@ -5,7 +5,9 @@
 version: 2
 jobs:
   build:
-    
+    machine:
+      java:
+        version: openjdk8   
     steps:
       - checkout
 
